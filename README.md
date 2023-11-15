@@ -2,6 +2,8 @@
 
 This repository show how to use Meslo Nerd Font in chrome OS terminal.
 
+I got this method at [Chrome / Chrome OS support · Issue #345 · ryanoasis/nerd-fonts (github.com)](https://github.com/ryanoasis/nerd-fonts/issues/345)
+
 If you want to use lunarvim or starship ... on your chromebook, you are supposed to use Nerd Font to correctly display icon&emoji.
 
 tested on chrome 118.0.0.0
