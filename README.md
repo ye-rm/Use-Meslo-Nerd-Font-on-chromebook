@@ -41,7 +41,3 @@ term_.prefs_.set('user-css-text', '@font-face {font-family: "<replace by font=fa
 replace 'github.com' with 'raw.githubusercontent.com' in https://github.com/ye-rm/MesloNerdFont-in-chrome-OS/blob/main/MesloLGMNerdFont-Regular.ttf then you got the font url.
 
 To test the font url whether correct, you can paste it in your browser, then the font file can be downloaded.
-
-## How to config Nerd Font in visual studio code(vscode) on chromebook.
-
-To be done..
